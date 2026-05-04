@@ -5,15 +5,21 @@ About Me
 Shaik Khalifa — Data Analyst | Python | Power BI | SQL
 
  MCA Student — Mohan Babu University (2024–2026)
+ 
  Full Stack Development Intern — IBM (2024)
+ 
  Skills: Python, SQL, Power BI, Pandas, Excel, Data Storytelling
+ 
  LinkedIn: linkedin.com/in/khalifa-shaik-098a902aa
+ 
  GitHub: github.com/khalifa380
+ 
  Email: shaikkhalifa689@gmail.com
+ 
  Phone: +91 7989389450
 
 
-Open to Data Analyst Internship opportunities — Remote & On-site
+Open to Data Analyst Internship opportunities — Remote
 If you are a fintech startup or data-driven company looking for someone
 who thinks like a business analyst and codes like a developer — let's connect!
 
